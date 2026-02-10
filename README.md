@@ -10,3 +10,5 @@ Copyright © 2025 Michael Shaffer (Siren Sinfull). All rights reserved.
 This work is licensed under CC BY-NC-SA 4.0 for public use. 
 The author retains all commercial rights and may license, sell, 
 or distribute this work commercially at any time.
+
+FYI: This was a test of Kimi's recursive depth for analysis reasons, and is quite inaccurate, however, it IS an artifact from the work. And... it was fun. I will share more as I do more experimentation. 
